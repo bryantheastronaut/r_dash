@@ -1,0 +1,6 @@
+[package]
+name = "r_dash"
+version = "0.1.0"
+authors = ["bryantheastronaut <bgilbraith12@gmail.com>"]
+
+[dependencies]
